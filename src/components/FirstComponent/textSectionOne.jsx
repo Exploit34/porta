@@ -21,7 +21,7 @@ export const TextSectionOne = () => {
         <br/>
         <p>
           <img src="../public/img/gratis-png-whatsapp-icon-logo-whatsapp-logo-thumbnail-489547460.png"
-          className="h-5 w-5" /> 
+          className="h-5 w-5"/> 
           +57300611****
         </p>
       </footer>

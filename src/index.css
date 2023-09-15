@@ -151,7 +151,7 @@ body {
   min-width: 320px;
   min-height: 150vh;
   /* background-color: gray; */
-  background-image: url('../public/img/774021300_1234567890\(1\).gif.gif');
+  background-image: url('./public/img/774021300_1234567890\(1\).gif.gif');
   background-size: 100% auto; 
   background-repeat: no-repeat;
   background-position: center center;
@@ -251,7 +251,7 @@ ul{
 h1 {
   width: 150px; 
   height: 100px; 
-  background-image: url('../public/img/raw-1105360459.gif');
+  background-image: url('./public/img/raw-1105360459.gif');
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 40%;
@@ -269,7 +269,7 @@ h1 {
   height: 250px;
   border-radius: 40%;
   margin-top: 40px;
-  background: url("../public/img/photo_2023-09-12_14-55-46.jpg");
+  background: url("./public/img/photo_2023-09-12_14-55-46.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
