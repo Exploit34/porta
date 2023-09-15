@@ -75,72 +75,6 @@
   margin-bottom: 5px;
 }
 
-/* .di{
-  display: flex;
-  
-} */
-
-/* .ci{
-  display: flex;
-  justify-content: flex-end;
-} */
-
-/* .ha{
-  display: flex;
-  justify-content: right;
-} */
-
-/* .node{
-  background: url('../public/img/nodejs.png');
-  background-size: cover;
-  border: none;
-  width: 100px;
-  height: 100px;
-}
-
-.php{
-  background: url('../public/img/php-logo-clipart-2864209831.jpg');
-  background-size: cover;
-  border: none;
-  width: 115px;
-  height: 100px;
-} */
-
-/* .java{
-  background: url('../public/img/java.png');
-  background-size: cover;
-  border: none;
-  width: 100px;
-  height: 100px;
-}
-
-.cuadro1{
-  display: flex;  
-}
-
-.module2{
-  display: flex;
-  flex-direction: column;
-  width: 90%;
-  gap: 5px;
-} */
-
-/* .uno{
-  width: 45%;
-}
-
-.ph{
-  width: 45%;
-}
-
-.parrafo1{
-  width: 400px;
-}
-
-.parra1{
-  width: 45%;
-} */
-
 a:hover {
   color: #8a640b;
 }
@@ -156,26 +90,6 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
-
-/* .parra2{
-  display: flex;  
-} */
-/* 
-.js{
-  background: url('../public/img/js.png');
-  background-size: cover;
-  border: none;
-  width: 100px;
-  height: 100px;
-} */
-
-/* .python{
-  background: url('../public/img/piton.png');
-  background-size: cover;
-  border: none;
-  width: 100px;
-  height: 100px;
-} */
 
 #total{
   margin: 0;
@@ -229,24 +143,6 @@ ul{
   display:flex ;
   justify-content: center;
 }
-
-/* #uno{
-  background: url('../public/img/Captura\ de\ pantalla\ 2023-08-15\ 200028.png');
-  background-size: cover;
-  background-position:center;
-}
-
-#dos{
-  background: url('../public/img/Captura\ de\ pantalla\ 2023-08-15\ 195420.png');
-  background-size: cover;
-  background-position: center;
-}
-
-#tres{
-  background: url('../public/img/proyecto2.png');
-  background-size: cover;
-  background-position: center; 
-} */
 
 h1 {
   width: 150px; 
