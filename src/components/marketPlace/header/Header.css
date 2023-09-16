@@ -13,10 +13,6 @@ header .header__logo {
   animation: rotate 2s linear infinite;
 }
 
-#atomo{
-  background-image: url("../../../../public/img/atomo.png");
-}
-
 @keyframes rotate {
   from {
     transform: rotate(0deg);
