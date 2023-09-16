@@ -2,7 +2,7 @@ import { TextSectionOne } from "./textSectionOne.jsx"
 export const SectionOne = () => {
   return (
     <div id="text">
-      <img src="" alt="" id="imagen" />
+      <img id="imagen" />
       <TextSectionOne></TextSectionOne>
     </div>
   )
