@@ -2,7 +2,6 @@ import React from "react"
 import  {Navbar}  from "./navbar.jsx"
 import {SectionOne} from "./sectionOne.jsx"
 
-
 export const FirstComponent = () => {
   const navstyle={
     display:"flex",

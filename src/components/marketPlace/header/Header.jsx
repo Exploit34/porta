@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
       <NavLink>
-        <img  className="h-14 w-14 "  src="../../../../public/img/atomo.png"></img>
+        <img id="atomo" className="h-14 w-14"/>
         <h2 className="text-2xl font-bold text-black"></h2>
         </NavLink>
       <li><NavLink to='/' className='text-black font-bold text-2xl'>Inicio</NavLink></li>
