@@ -9,6 +9,10 @@ header .header__logo {
   animation: rotate 2s linear infinite;
 }
 
+#ima{
+  background-image: url("../../../../public/img/wha.png");
+}
+
 @keyframes rotate {
   from {
     transform: rotate(0deg);
