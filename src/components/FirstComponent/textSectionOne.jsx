@@ -20,7 +20,7 @@ export const TextSectionOne = () => {
         <p>contacto</p>
         <br/>
         <p>
-          <img src="../public/img/gratis-png-whatsapp-icon-logo-whatsapp-logo-thumbnail-489547460.png"
+          <img src="./public/img/wha.png"
           className="h-5 w-5"/> 
           +57300611****
         </p>
